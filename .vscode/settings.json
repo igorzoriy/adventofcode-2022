@@ -4,6 +4,8 @@
   "deno.inlayHints.enumMemberValues.enabled": false,
   "deno.inlayHints.functionLikeReturnTypes.enabled": true,
   "deno.inlayHints.parameterNames.enabled": "none",
+  "deno.inlayHints.parameterTypes.enabled": false,
+  "deno.inlayHints.propertyDeclarationTypes.enabled": false,
   "deno.inlayHints.variableTypes.enabled": false,
 
   "editor.formatOnSave": true,
